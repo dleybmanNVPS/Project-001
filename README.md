@@ -8,7 +8,7 @@ let's make a few changes.
 
 and then push and commit them back to our github repo.
 
-And another change to the local develop branch again. 
+And another change to the local develop branch again. Hello
 
 1. Clone Check
 2. Stage and Commit. 
